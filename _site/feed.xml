@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-05-23T21:19:35-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Moura’s Blog</title><subtitle>A blog about technology</subtitle><author><name>Alicino Moura</name></author><entry><title type="html">Docker Compose And You</title><link href="http://localhost:4000/blog/Docker-Compose-and-You/" rel="alternate" type="text/html" title="Docker Compose And You" /><published>2023-05-12T00:00:00-05:00</published><updated>2023-05-12T00:00:00-05:00</updated><id>http://localhost:4000/blog/Docker-Compose-and-You</id><content type="html" xml:base="http://localhost:4000/blog/Docker-Compose-and-You/"><![CDATA[<p>Here is my first post. Hello World!
+by Alicino</p>]]></content><author><name>Alicino Moura</name></author><summary type="html"><![CDATA[Here is my first post. Hello World! by Alicino]]></summary></entry><entry><title type="html">Hello World Lorem ipsum</title><link href="http://localhost:4000/blog/dev/Hello-World-Lorem-Ipsum/" rel="alternate" type="text/html" title="Hello World Lorem ipsum" /><published>2023-05-11T00:00:00-05:00</published><updated>2023-05-11T00:00:00-05:00</updated><id>http://localhost:4000/blog/dev/Hello-World-Lorem%20Ipsum</id><content type="html" xml:base="http://localhost:4000/blog/dev/Hello-World-Lorem-Ipsum/"><![CDATA[<p>Lorem Ipsum</p>
+
+<p>“Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…”</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non euismod turpis. Quisque venenatis magna vel nisi finibus efficitur. In eu urna in urna elementum porttitor a eu leo. Aenean venenatis porta dui sed egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vitae lectus non nibh dignissim auctor. Integer congue lorem sit amet mattis porttitor. Nullam mollis varius semper. Fusce vulputate ac lorem sit amet sodales. Nullam imperdiet tincidunt ornare. Ut venenatis pretium magna eget aliquet. Nullam non nibh tortor. Ut ut mi efficitur, gravida quam nec, maximus odio.</p>
+
+<p>Sed tincidunt imperdiet leo, nec ultricies risus tempor non. Pellentesque sollicitudin tortor quis ligula posuere, in tristique ex pretium. Donec tortor lectus, imperdiet in rutrum ut, laoreet vitae erat. Phasellus ullamcorper eget tellus eu tincidunt. Ut tincidunt est in auctor dictum. Integer pellentesque, nibh vel cursus lacinia, arcu turpis blandit eros, ac tempus diam metus vel tellus. Sed bibendum porttitor risus, at cursus magna tincidunt a. Maecenas semper leo a est accumsan, non convallis eros convallis. Vestibulum eget iaculis ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed pulvinar quam, a dignissim odio. Aliquam laoreet varius diam vel eleifend. Praesent velit ante, auctor at sapien nec, faucibus accumsan eros. Duis tellus nisi, varius vitae nunc in, lacinia fermentum dui.</p>
+
+<p>Donec diam sapien, lobortis in ultrices nec, porttitor nec ipsum. Nam bibendum ultrices mattis. Mauris vel dignissim urna, sit amet ullamcorper libero. Curabitur mollis rutrum felis eget auctor. Sed sit amet ipsum nec ipsum dignissim dictum. In hac habitasse platea dictumst. Mauris commodo lectus ut libero ultrices, in varius tortor dapibus. Mauris vel enim nec turpis interdum mattis eu vitae purus. Maecenas tempor finibus pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra pretium sem at viverra. Nam auctor efficitur lacus nec rutrum. Nam fringilla, sem at volutpat sodales, nulla mi accumsan ex, a aliquam quam ante eget neque. Mauris efficitur porttitor felis, vel cursus dui placerat id. Sed sed ex quis urna scelerisque fringilla.</p>
+
+<p>Vivamus tempor odio eget nunc blandit, in ultricies augue pulvinar. Fusce elementum sit amet velit sed blandit. Nulla facilisi. Etiam tempus sit amet libero in congue. Vestibulum tempus, ante vel fringilla luctus, velit risus efficitur odio, quis lacinia libero mi sed tellus. Nulla semper nisl eget tincidunt posuere. Cras at dolor accumsan, luctus tortor placerat, vehicula erat. Quisque at porta magna, ac fringilla nibh.</p>
+
+<p>Pellentesque nibh urna, maximus sed felis in, dictum placerat arcu. Donec rhoncus sagittis lorem, a tristique ipsum efficitur a. Nullam in eleifend ligula. Nullam in dolor ex. Curabitur imperdiet nibh mi. In eget lacus at diam condimentum condimentum eu eget velit. Mauris quis sodales dui, id euismod nulla. Maecenas molestie tortor augue, quis euismod magna scelerisque non. Etiam id facilisis nisl. Aliquam dui quam, gravida ut augue nec, venenatis egestas massa. Aenean ornare mauris id leo fermentum iaculis. Morbi sagittis eget urna ut accumsan. Sed sed libero eget nulla porta pretium. Integer eu pharetra urna, eu laoreet libero. Aliquam tempus mi ac erat facilisis hendrerit.</p>]]></content><author><name>Alicino Moura</name></author><category term="[&quot;dev&quot;]" /><category term="lorem" /><category term="test" /><summary type="html"><![CDATA[Lorem Ipsum]]></summary></entry><entry><title type="html">Markup: Image Alignment</title><link href="http://localhost:4000/blog/markup/markup-image-alignment/" rel="alternate" type="text/html" title="Markup: Image Alignment" /><published>2023-01-10T00:00:00-06:00</published><updated>2023-01-10T00:00:00-06:00</updated><id>http://localhost:4000/blog/markup/markup-image-alignment</id><content type="html" xml:base="http://localhost:4000/blog/markup/markup-image-alignment/"><![CDATA[<p>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.</p>
+
+<p><img src="http://localhost:4000/blog/assets/images/image-alignment-580x300.jpg" alt="image-center" class="align-center" /></p>
+
+<p>The image above happens to be <strong>centered</strong>.</p>
+
+<p><img src="http://localhost:4000/blog/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.</p>
+
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thing. Mission accomplished!</p>
+
+<p>And now for a <strong>massively large image</strong>. It also has <strong>no alignment</strong>.</p>
+
+<p><img src="http://localhost:4000/blog/assets/images/image-alignment-1200x4002.jpg" alt="no-alignment" /></p>
+
+<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
+
+<p><img src="http://localhost:4000/blog/assets/images/image-alignment-300x200.jpg" alt="image-right" class="align-right" /></p>
+
+<p>And now we’re going to shift things to the <strong>right align</strong>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there — Hey guy! Way to rock that right side. I don’t care what the left aligned image says, you look great. Don’t let anyone else tell you differently.</p>
+
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah — Just like that. It never felt so good to be right.</p>
+
+<p>And just when you thought we were done, we’re going to do them all over again with captions!</p>
+
+<figure class="align-center">
+  <img src="http://localhost:4000/blog/assets/images/image-alignment-580x300.jpg" alt="" />
+  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+</figure>
+
+<p>The figure above happens to be <strong>centered</strong>. The caption also has a link in it, just to see if it does anything funky.</p>
+
+<figure style="width: 150px" class="align-left">
+  <img src="http://localhost:4000/blog/assets/images/image-alignment-150x150.jpg" alt="" />
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+
+<p>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.</p>
+
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thing. Mission accomplished!</p>
+
+<p>And now for a <strong>massively large image</strong>. It also has <strong>no alignment</strong>.</p>
+
+<figure style="width: 1200px">
+  <img src="http://localhost:4000/blog/assets/images/image-alignment-1200x4002.jpg" alt="" />
+  <figcaption>Massive image comment for your eyeballs.</figcaption>
+</figure>
+
+<p>The figure element above has an inline style of <code class="language-plaintext highlighter-rouge">width: 1200px</code> set which should break it outside of the normal content flow.</p>
+
+<figure style="width: 300px" class="align-right">
+  <img src="http://localhost:4000/blog/assets/images/image-alignment-300x200.jpg" alt="" />
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure>
+
+<p>And now we’re going to shift things to the <strong>right align</strong>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there — Hey guy! Way to rock that right side. I don’t care what the left aligned image says, you look great. Don’t let anyone else tell you differently.</p>
+
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah — Just like that. It never felt so good to be right.</p>
+
+<p>And that’s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>]]></content><author><name>Alicino Moura</name></author><category term="Markup" /><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="markup" /><summary type="html"><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.]]></summary></entry><entry><title type="html">Markup: Text Alignment</title><link href="http://localhost:4000/blog/markup/markup-text-alignment/" rel="alternate" type="text/html" title="Markup: Text Alignment" /><published>2023-01-09T00:00:00-06:00</published><updated>2023-01-09T00:00:00-06:00</updated><id>http://localhost:4000/blog/markup/markup-text-alignment</id><content type="html" xml:base="http://localhost:4000/blog/markup/markup-text-alignment/"><![CDATA[<h3 id="default">Default</h3>
+
+<p>This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way. Trust me.</p>
+
+<h3 id="left-align">Left Align</h3>
+
+<p style="text-align: left;">This is a paragraph. It is left aligned. Because of this, it is a bit more liberal in it’s views. It’s favorite color is green. Left align tends to be more eco-friendly, but it provides no concrete evidence that it really is. Even though it likes share the wealth evenly, it leaves the equal distribution up to justified alignment.</p>
+
+<h3 id="center-align">Center Align</h3>
+
+<p style="text-align: center;">This is a paragraph. It is center aligned. Center is, but nature, a fence sitter. A flip flopper. It has a difficult time making up its mind. It wants to pick a side. Really, it does. It has the best intentions, but it tends to complicate matters more than help. The best you can do is try to win it over and hope for the best. I hear center align does take bribes.</p>
+
+<h3 id="right-align">Right Align</h3>
+
+<p style="text-align: right;">This is a paragraph. It is right aligned. It is a bit more conservative in it’s views. It’s prefers to not be told what to do or how to do it. Right align totally owns a slew of guns and loves to head to the range for some practice. Which is cool and all. I mean, it’s a pretty good shot from at least four or five football fields away. Dead on. So boss.</p>
+
+<h3 id="justify-align">Justify Align</h3>
+
+<p style="text-align: justify;">This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.</p>]]></content><author><name>Alicino Moura</name></author><category term="Markup" /><category term="alignment" /><category term="content" /><category term="css" /><category term="markup" /><summary type="html"><![CDATA[Default]]></summary></entry><entry><title type="html">Markup: Title *with* **Markdown**</title><link href="http://localhost:4000/blog/markdown/markup-title-with-markup/" rel="alternate" type="text/html" title="Markup: Title *with* **Markdown**" /><published>2023-01-05T00:00:00-06:00</published><updated>2023-01-05T00:00:00-06:00</updated><id>http://localhost:4000/blog/markdown/markup-title-with-markup</id><content type="html" xml:base="http://localhost:4000/blog/markdown/markup-title-with-markup/"><![CDATA[<p>Verify that:</p>
+
+<ul>
+  <li>The post title renders the word “with” in <em>italics</em> and the word “Markdown” in <strong>bold</strong>.</li>
+  <li>The post title markup should be removed from the browser window / tab.</li>
+</ul>]]></content><author><name>Alicino Moura</name></author><category term="Markdown" /><category term="css" /><category term="html" /><category term="title" /><summary type="html"><![CDATA[Verify that:]]></summary></entry><entry><title type="html">Markup: Title with Special — Characters</title><link href="http://localhost:4000/blog/markup/markup-title-with-special-characters/" rel="alternate" type="text/html" title="Markup: Title with Special — Characters" /><published>2023-01-05T00:00:00-06:00</published><updated>2023-01-05T00:00:00-06:00</updated><id>http://localhost:4000/blog/markup/markup-title-with-special-characters</id><content type="html" xml:base="http://localhost:4000/blog/markup/markup-title-with-special-characters/"><![CDATA[<p>Putting special characters in the title should have no adverse effect on the layout or functionality.</p>
+
+<p>Special characters in the post title have been known to cause issues with JavaScript and XML when not properly encoded and escaped.</p>
+
+<h2 id="latin-character-tests">Latin Character Tests</h2>
+
+<p>This is a test to see if the fonts used in this theme support basic Latin characters.</p>
+
+<table>
+  <tr>
+    <td>
+      !
+    </td>
+    
+    <td>
+      &#8220;
+    </td>
+    
+    <td>
+      #
+    </td>
+    
+    <td>
+      $
+    </td>
+    
+    <td>
+      %
+    </td>
+    
+    <td>
+      &amp;
+    </td>
+    
+    <td>
+      &#8216;
+    </td>
+    
+    <td>
+      (
+    </td>
+    
+    <td>
+      )
+    </td>
+    
+    <td>
+      *
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      +
+    </td>
+    
+    <td>
+      ,
+    </td>
+    
+    <td>
+      &#8211;
+    </td>
+    
+    <td>
+      .
+    </td>
+    
+    <td>
+      /
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+      1
+    </td>
+    
+    <td>
+      2
+    </td>
+    
+    <td>
+      3
+    </td>
+    
+    <td>
+      4
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      5
+    </td>
+    
+    <td>
+      6
+    </td>
+    
+    <td>
+      7
+    </td>
+    
+    <td>
+      8
+    </td>
+    
+    <td>
+      9
+    </td>
+    
+    <td>
+      :
+    </td>
+    
+    <td>
+      ;
+    </td>
+    
+    <td>
+      &gt;
+    </td>
+    
+    <td>
+      =
+    </td>
+    
+    <td>
+      &lt;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ?
+    </td>
+    
+    <td>
+      @
+    </td>
+    
+    <td>
+      A
+    </td>
+    
+    <td>
+      B
+    </td>
+    
+    <td>
+      C
+    </td>
+    
+    <td>
+      D
+    </td>
+    
+    <td>
+      E
+    </td>
+    
+    <td>
+      F
+    </td>
+    
+    <td>
+      G
+    </td>
+    
+    <td>
+      H
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      I
+    </td>
+    
+    <td>
+      J
+    </td>
+    
+    <td>
+      K
+    </td>
+    
+    <td>
+      L
+    </td>
+    
+    <td>
+      M
+    </td>
+    
+    <td>
+      N
+    </td>
+    
+    <td>
+      O
+    </td>
+    
+    <td>
+      P
+    </td>
+    
+    <td>
+      Q
+    </td>
+    
+    <td>
+      R
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      S
+    </td>
+    
+    <td>
+      T
+    </td>
+    
+    <td>
+      U
+    </td>
+    
+    <td>
+      V
+    </td>
+    
+    <td>
+      W
+    </td>
+    
+    <td>
+      X
+    </td>
+    
+    <td>
+      Y
+    </td>
+    
+    <td>
+      Z
+    </td>
+    
+    <td>
+      [
+    </td>
+    
+    <td>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ]
+    </td>
+    
+    <td>
+      ^
+    </td>
+    
+    <td>
+      _
+    </td>
+    
+    <td>
+      `
+    </td>
+    
+    <td>
+      a
+    </td>
+    
+    <td>
+      b
+    </td>
+    
+    <td>
+      c
+    </td>
+    
+    <td>
+      d
+    </td>
+    
+    <td>
+      e
+    </td>
+    
+    <td>
+      f
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      g
+    </td>
+    
+    <td>
+      h
+    </td>
+    
+    <td>
+      i
+    </td>
+    
+    <td>
+      j
+    </td>
+    
+    <td>
+      k
+    </td>
+    
+    <td>
+      l
+    </td>
+    
+    <td>
+      m
+    </td>
+    
+    <td>
+      n
+    </td>
+    
+    <td>
+      o
+    </td>
+    
+    <td>
+      p
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      q
+    </td>
+    
+    <td>
+      r
+    </td>
+    
+    <td>
+      s
+    </td>
+    
+    <td>
+      t
+    </td>
+    
+    <td>
+      u
+    </td>
+    
+    <td>
+      v
+    </td>
+    
+    <td>
+      w
+    </td>
+    
+    <td>
+      x
+    </td>
+    
+    <td>
+      y
+    </td>
+    
+    <td>
+      z
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      {
+    </td>
+    
+    <td>
+      |
+    </td>
+    
+    <td>
+      }
+    </td>
+    
+    <td>
+      ~
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+  </tr>
+</table>]]></content><author><name>Alicino Moura</name></author><category term="Markup" /><category term="html" /><category term="markup" /><summary type="html"><![CDATA[Putting special characters in the title should have no adverse effect on the layout or functionality.]]></summary></entry><entry><title type="html">Wide Single Layout Page</title><link href="http://localhost:4000/blog/markup-text-readability-wide-page/" rel="alternate" type="text/html" title="Wide Single Layout Page" /><published>2022-05-22T00:00:00-05:00</published><updated>2022-05-22T00:00:00-05:00</updated><id>http://localhost:4000/blog/markup-text-readability-wide-page</id><content type="html" xml:base="http://localhost:4000/blog/markup-text-readability-wide-page/"><![CDATA[<p>When using <code class="language-plaintext highlighter-rouge">layout: single</code> add the following front matter to a page or post to widen the main content:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">classes</span><span class="pi">:</span> <span class="s">wide</span>
+</code></pre></div></div>
+
+<p>Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.</p>
+
+<p>Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.</p>
+
+<h2 id="cupidatat-90s-lo-fi-authentic-try-hard">Cupidatat 90’s lo-fi authentic try-hard</h2>
+
+<p>In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.</p>
+
+<ul>
+  <li>Sartorial hoodie</li>
+  <li>Labore viral forage</li>
+  <li>Tote bag selvage</li>
+  <li>DIY exercitation et id ugh tumblr church-key</li>
+</ul>
+
+<p>Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.</p>
+
+<p>Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.</p>
+
+<h2 id="forage-occaecat-cardigan-qui">Forage occaecat cardigan qui</h2>
+
+<p>Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.</p>
+
+<blockquote>
+  <p>Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.</p>
+</blockquote>
+
+<p>Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.</p>
+
+<h2 id="hoodie-duis">Hoodie Duis</h2>
+
+<p>Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.</p>
+
+<h3 id="thundercats-ho">Thundercats Ho!</h3>
+
+<p>Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.</p>
+
+<p>Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.</p>
+
+<p>Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.</p>]]></content><author><name>Alicino Moura</name></author><category term="sample post" /><category term="readability" /><category term="test" /><summary type="html"><![CDATA[A page with `classes: wide` set to expand the main content's width.]]></summary></entry><entry><title type="html">Markup: Text Readability Test</title><link href="http://localhost:4000/blog/markup-text-readability/" rel="alternate" type="text/html" title="Markup: Text Readability Test" /><published>2022-05-22T00:00:00-05:00</published><updated>2022-05-22T00:00:00-05:00</updated><id>http://localhost:4000/blog/markup-text-readability</id><content type="html" xml:base="http://localhost:4000/blog/markup-text-readability/"><![CDATA[<p>Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.</p>
+
+<p>Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.</p>
+
+<h2 id="cupidatat-90s-lo-fi-authentic-try-hard">Cupidatat 90’s lo-fi authentic try-hard</h2>
+
+<p>In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.</p>
+
+<ul>
+  <li>Sartorial hoodie</li>
+  <li>Labore viral forage</li>
+  <li>Tote bag selvage</li>
+  <li>DIY exercitation et id ugh tumblr church-key</li>
+</ul>
+
+<p>Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.</p>
+
+<p>Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.</p>
+
+<h2 id="forage-occaecat-cardigan-qui">Forage occaecat cardigan qui</h2>
+
+<p>Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.</p>
+
+<blockquote>
+  <p>Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.</p>
+</blockquote>
+
+<p>Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.</p>
+
+<h2 id="hoodie-duis">Hoodie Duis</h2>
+
+<p>Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.</p>
+
+<h3 id="thundercats-ho">Thundercats Ho!</h3>
+
+<p>Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.</p>
+
+<p>Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.</p>
+
+<p>Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.</p>]]></content><author><name>Alicino Moura</name></author><category term="sample post" /><category term="readability" /><category term="test" /><summary type="html"><![CDATA[A bunch of text to test readability.]]></summary></entry><entry><title type="html">Layout: Sidebar Custom</title><link href="http://localhost:4000/blog/layout-sidebar-custom/" rel="alternate" type="text/html" title="Layout: Sidebar Custom" /><published>2022-03-15T00:00:00-05:00</published><updated>2022-03-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/layout-sidebar-custom</id><content type="html" xml:base="http://localhost:4000/blog/layout-sidebar-custom/"><![CDATA[<p>This post has a custom sidebar set in the post’s YAML Front Matter.</p>
+
+<p>An example of how that YAML could look is:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">sidebar</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Title"</span>
+    <span class="na">image</span><span class="pi">:</span> <span class="s">http://placehold.it/350x250</span>
+    <span class="na">image_alt</span><span class="pi">:</span> <span class="s2">"</span><span class="s">image"</span>
+    <span class="na">text</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Some</span><span class="nv"> </span><span class="s">text</span><span class="nv"> </span><span class="s">here."</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Another</span><span class="nv"> </span><span class="s">Title"</span>
+    <span class="na">text</span><span class="pi">:</span> <span class="s2">"</span><span class="s">More</span><span class="nv"> </span><span class="s">text</span><span class="nv"> </span><span class="s">here."</span>
+</code></pre></div></div>]]></content><author><name>Alicino Moura</name></author><summary type="html"><![CDATA[A post with custom sidebar content.]]></summary></entry><entry><title type="html">Layout: Sidebar with Navigation List</title><link href="http://localhost:4000/blog/layout-sidebar-nav-list/" rel="alternate" type="text/html" title="Layout: Sidebar with Navigation List" /><published>2022-03-15T00:00:00-05:00</published><updated>2022-03-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/layout-sidebar-nav-list</id><content type="html" xml:base="http://localhost:4000/blog/layout-sidebar-nav-list/"><![CDATA[<p>This post has a custom navigation list set in the post’s YAML Front Matter.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">sidebar</span><span class="pi">:</span>
+  <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Sample</span><span class="nv"> </span><span class="s">Title"</span>
+  <span class="na">nav</span><span class="pi">:</span> <span class="s">sidebar-sample</span>
+</code></pre></div></div>
+
+<p>Along with navigation elements set in <code class="language-plaintext highlighter-rouge">_data/navigation.yml</code>.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">sidebar-sample</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Parent</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">A"</span>
+    <span class="na">children</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">A1"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">A2"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">A3"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">A4"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Parent</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B"</span>
+    <span class="na">children</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B1"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B2"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B3"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B4"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">B5"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Parent</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C"</span>
+    <span class="na">children</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C1"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C2"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C3"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C4"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">C5"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Parent</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">D"</span>
+    <span class="na">children</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">D1"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+      <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Child</span><span class="nv"> </span><span class="s">Page</span><span class="nv"> </span><span class="s">D2"</span>
+        <span class="na">url</span><span class="pi">:</span> <span class="s">/</span>
+</code></pre></div></div>]]></content><author><name>Alicino Moura</name></author><summary type="html"><![CDATA[A post with a sidebar navigation list.]]></summary></entry></feed>
