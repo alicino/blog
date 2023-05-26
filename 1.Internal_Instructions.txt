@@ -2,7 +2,7 @@
 == Instructions According Customization ==
 ==========================================
 
-1. Add topic in the top with "About"
+1. Add more topics in the top such as "About"
 Path: _data/navigation.yml 
 
 2. Modify CSS (font & color)
@@ -18,7 +18,7 @@ See: _config.yml file and search for "search: true" AND
   search_within_pages    : true"
 
 5. Toggle Search (Color & Place?)
-Path: _incldes/masthead.html  (fas fa-serach)
+Path: _includes/masthead.html  (fas fa-serach)
  <button class="search__toggle" type="button">
     <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
     <i class="fas fa-search" style="color: #0000007f;"></i>

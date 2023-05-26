@@ -32,7 +32,16 @@ _site
 1.Internal_Instructions.txt
 test
 docs
+README_OLD.md
+
+# "Remove de Unnnecessary" from https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+.editorconfig
+.gitattributes
+.github
+/docs
+/test
+CHANGELOG.md
+minimal-mistakes-jekyll.gemspec
+README.md
 screenshot-layouts.png
 screenshot.png
-README_OLD.md
-.editorconfig
