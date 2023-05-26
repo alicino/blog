@@ -29,9 +29,11 @@ _asset_bundler_cache
 _site
 
 # My Customization
-1.Internal_Instructions.txt
-test
-docs
+Internal_Instructions.txt
+site/
+test/
+docs/
+archive/
 README_OLD.md
 
 # "Remove de Unnnecessary" from https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
