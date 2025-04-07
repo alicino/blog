@@ -37,6 +37,8 @@ If you use ChatGPT (for example), open a new prompt and write something similar 
 
   > Based on the history of our conversations, what do you know about me?
 
+![ChatGPT prompt](/assets/images/2025-04-06-ai-hype-vs-privacy.png)
+
 You will see that the AI has a lot of information about you.
 (Note: This might not work if memory is disabled.)
 
