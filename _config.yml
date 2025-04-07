@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Alicino Moura"
   avatar           : /assets/images/profile-pic2.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Passionate for data, code,... technology and some more else"
+  bio              : "Passionate for data, cybersecurity, code, technology... and some more else"
   location         : "Austin, TX"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alicino.usa@gmail.com"
+      url: "mailto:contact@alicino.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://alicino.me/"
