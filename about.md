@@ -72,7 +72,6 @@ If any topic resonates with you — or if you have questions, ideas, or feedback
 - **LinkedIn**: [linkedin.com/in/alicino](https://www.linkedin.com/in/alicino/)
 - **Podcast**: [Tô na Correria Podcast](https://open.spotify.com/show/1ufB0VHLAmanOaUhFY3Z2S)
 - **Strava**: [Alicino Moura - Strava Profile](https://www.strava.com/athletes/19091518)
-- **Contact**: [contact@alicino.me](contact@alicino.me)
 
 ---
 
