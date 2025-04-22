@@ -12,8 +12,6 @@ tags:
   - profile
 ---
 
-# About Alicino Moura
-
 👋 Hello! I'm **Alicino Moura**, a cybersecurity professional, cloud networking enthusiast, and web technology expert. I specialize in designing resilient and high-performance infrastructures, with a solid foundation in network security, Cloudflare technologies, project management, data science, and Python development.
 
 ### 🚀 Background & Skills
