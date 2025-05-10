@@ -16,7 +16,7 @@ From morning routines to late-night entertainment, our phones and computers are 
 
 My mission here is to explain, in a very simple way, how you can protect yourself. We'll talk about fake emails (phishing), suspicious files, dangerous clicks, and other common traps. The goal is for anyone, even without technical knowledge, to understand and stay safe.
 
-Based on my experience, I created this list in priority order. Still, I don’t recommend ignoring any item—staying vigilant and updating your practices regularly is essential.
+Based on my experience, I created this list in priority order. However, that doesn’t mean any item should be overlooked — staying vigilant and regularly updating your practices is crucial to maintaining your safety.
 
 ---
 
@@ -183,3 +183,4 @@ If something seems too good to be true, it probably is. Use common sense, questi
 ---
 
 Need help with any of these steps? [Reach out to me](mailto:contactl@alicino.me)
+-- *Updated on May 10th, 2025 by Alicino*
