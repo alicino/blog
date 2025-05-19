@@ -11,7 +11,9 @@ category:
   - ssh
 ---
 
-Initial Considerations
+Setting up SSH access using Cloudflare Zero Trust adds an extra layer of security by enforcing identity-based access and eliminating the need to expose your server's public IP. In this guide, we’ll walk you step-by-step through the process: from generating your SSH key pair, configuring the server, and creating a Cloudflare Tunnel, to setting up access policies and using the WARP client on the client machine. By the end, you’ll have a secure, private connection to your server over SSH without relying on traditional firewall rules or VPNs.
+
+**Initial Considerations**
 
 This step-by-step guide refers to connecting to a remote server via the SSH protocol using the Cloudflare Zero Trust feature. The steps provided here are an adapted model based on the official documentation available at the link below.
 
@@ -49,13 +51,13 @@ Save this value. We will copy it to the server we will connect to later.
 ### 2. Creating the Virtual Machine "Server" for Connection (Optional)
 This step is optional if you have already created the server for this purpose. If not, refer to the appropriate guide for creating a VM within your hosting environment, such as:
 
-Google Cloud: https://cloud.google.com/compute/docs/create-linux-vm-instance
+**Google Cloud**: [https://cloud.google.com/compute/docs/create-linux-vm-instance](https://cloud.google.com/compute/docs/create-linux-vm-instance)
 
-Azure: https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu
+**Azure**: [https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 
-AWS EC2: https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
+**AWS EC2**: [https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/](https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/)
 
-Oracle Cloud: https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/overviewworkflow.htm
+**Oracle Cloud**: [https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/overviewworkflow.htm](https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/)
 
 **Note:** Cloudflare does not provide support for this step as it involves third-party services.
 
