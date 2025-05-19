@@ -182,5 +182,6 @@ If something seems too good to be true, it probably is. Use common sense, questi
 
 ---
 
-Need help with any of these steps? [Reach out to me](mailto:contact@alicino.me)
+Need help setting up safer AI usage? Feel free to reach out — I’m here to help!
+
 -- *Updated on May 10th, 2025 by Alicino*
