@@ -16,7 +16,7 @@ category:
 
 If you work with networking, cybersecurity, DevOps, or system administration, mastering the command line is not optional, it’s essential. Many real-world troubleshooting scenarios require fast diagnostics, and graphical interfaces often don’t give you enough insight.
 
-That’s why I created this beginner-friendly and optimized guide covering the **20 most essential network and security commands**. Whether you're preparing for certifications (CompTIA Network+, Security+), managing a server, or learning Linux, these commands will quickly become part of your daily toolkit.
+That’s why I created this beginner-friendly and optimized guide covering the **20 most essential network and security commands**. Whether you're preparing for certifications (CompTIA Network+, Security+, PenTest), managing a server, or learning Linux, these commands will quickly become part of your daily toolkit.
 
 I have listed each command in my order with clear descriptions, use cases, and practical examples.
 
