@@ -1,18 +1,39 @@
-.highlight {
-  background: #f6f8fa !important; /* Cinza clareado estilo GitHub */
+/* Fonte padrão para código */
+code,
+pre {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+/* Blocos de código: ``` ... ``` */
+.highlight,
+.highlighter-rouge pre,
+pre.highlight {
+  background-color: #f6f8fa;          /* cinza estilo GitHub */
+  border: 1px solid #d0d7de;          /* borda sutil */
   border-radius: 6px;
-  padding: 12px;
+  padding: 12px 14px;
   overflow-x: auto;
 }
 
+/* Remove fundo duplicado dentro do <pre> */
 .highlight pre {
   background: transparent !important;
   margin: 0;
   padding: 0;
 }
 
+/* Código inline: `comando` dentro de parágrafo */
 code {
-  background: #eaeaea;
-  padding: 2px 5px;
+  background-color: #f3f4f6;
+  padding: 0.15em 0.35em;
   border-radius: 4px;
+}
+
+/* Evita aplicar o fundo inline dentro de blocos de código */
+pre code {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
 }
