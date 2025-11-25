@@ -1,0 +1,18 @@
+.highlight {
+  background: #f6f8fa !important; /* Cinza clareado estilo GitHub */
+  border-radius: 6px;
+  padding: 12px;
+  overflow-x: auto;
+}
+
+.highlight pre {
+  background: transparent !important;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  background: #eaeaea;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
