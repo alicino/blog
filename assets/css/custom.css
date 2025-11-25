@@ -1,39 +1,38 @@
-/* Fonte padrão para código */
-code,
-pre {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-    "Courier New", monospace;
-  font-size: 0.9em;
-}
+/* ========== ESTILO CLEAN E MINIMALISTA PARA CÓDIGO ========== */
 
-/* Blocos de código: ``` ... ``` */
+/* Bloco de código: ``` ... ``` */
 .highlight,
+pre.highlight,
 .highlighter-rouge pre,
-pre.highlight {
-  background-color: #f6f8fa;          /* cinza estilo GitHub */
-  border: 1px solid #d0d7de;          /* borda sutil */
-  border-radius: 6px;
-  padding: 12px 14px;
+pre {
+  background: #f2f2f2 !important;  /* cinza claro uniforme */
+  color: #000 !important;           /* texto preto */
+  border: 1px solid #e0e0e0;        /* borda muito leve */
+  border-radius: 0;                 /* sem arredondamento */
+  padding: 12px;
+  margin: 16px 0;
   overflow-x: auto;
 }
 
-/* Remove fundo duplicado dentro do <pre> */
+/* Remove fundo interno duplicado */
 .highlight pre {
   background: transparent !important;
   margin: 0;
   padding: 0;
 }
 
-/* Código inline: `comando` dentro de parágrafo */
+/* Inline code: `comando` */
 code {
-  background-color: #f3f4f6;
-  padding: 0.15em 0.35em;
-  border-radius: 4px;
+  background: #f2f2f2 !important;   /* mesmo cinza claro dos blocos */
+  color: #000 !important;           /* texto preto */
+  padding: 2px 4px;
+  border-radius: 0;                 /* sem cantos arredondados */
+  border: 1px solid #e0e0e0;        /* borda leve igual ao bloco */
 }
 
-/* Evita aplicar o fundo inline dentro de blocos de código */
+/* Evita aplicar estilo duplicado dentro de blocos */
 pre code {
-  background: transparent;
-  padding: 0;
-  border-radius: 0;
+  border: none !important;
+  padding: 0 !important;
+  background: transparent !important;
 }
