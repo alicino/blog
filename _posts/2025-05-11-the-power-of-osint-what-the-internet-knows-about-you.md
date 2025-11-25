@@ -74,5 +74,5 @@ The OSINT can show private aspects, so you have to deal with it properly in a et
 The problem is not find, but how you use these information.
 
 ---
-**Did you find this guide useful?** Share it with friends and family. Let’s build a safer internet—together.
+**Did you find this guide useful?** Share it with friends and family. Let’s build a safer internet. Together!
 
