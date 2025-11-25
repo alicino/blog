@@ -20,11 +20,8 @@ That’s why I created this beginner-friendly and optimized guide covering the *
 
 I have listed each command in my order with clear descriptions, use cases, and practical examples.
 
----
-## 20 Essential Network and Security Commands (Explained Clearly)
-
 #### 1. **ping**
-**Purpose:** Test connectivity between your device and a target domain/IP. This command is a must have in our tool list. 
+**Purpose:** Test connectivity between your device and a target domain/IP. This command is a must have in our tool list.  
 **Best for:** Checking if a server, router, or website is reachable.  
 **Examples:**
 ```bash
@@ -143,8 +140,8 @@ ip route
 
 ---
 #### 14. **arp / ip neigh**
-**Purpose:** Show ARP table entries (IP ↔ MAC mappings).
-**Best for:** Check IP duplicity in the network and manage packages.
+**Purpose:** Show ARP table entries (IP ↔ MAC mappings).  
+**Best for:** Check IP duplicity in the network and manage packages.  
 **Examples:**
 ```bash
 arp -a          # Shows the ARP table
