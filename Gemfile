@@ -1,8 +1,17 @@
+source "https://rubygems.org"
+
+# GitHub Pages–native Jekyll setup (stable, supported)
+# Do NOT add jekyll or theme gems when using remote_theme
+
+gem "github-pages", group: :jekyll_plugins
+
+# Comments (OLD version below)
+
 # source "https://rubygems.org"
 # gem 'minimal-mistakes-jekyll', '~> 4.24'
 # gem "github-pages", group: :jekyll_plugins
 
-source "https://rubygems.org"
+# source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -17,8 +26,8 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll"
-gem "minimal-mistakes-jekyll", "~> 4.24"
+# gem "jekyll"
+# gem "minimal-mistakes-jekyll", "~> 4.24"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -29,5 +38,5 @@ gem "minimal-mistakes-jekyll", "~> 4.24"
 #
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
-group :jekyll_plugins do
-end
+# group :jekyll_plugins do
+# end

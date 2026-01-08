@@ -35,6 +35,8 @@ test/
 docs/
 archive/
 README_OLD.md
+*.OLD
+*.old
 
 # "Remove de Unnnecessary" from https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 .editorconfig
