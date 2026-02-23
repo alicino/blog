@@ -10,28 +10,49 @@ category:
   - mathematics
 ---
 
-It is not typical for this blog (so far) addressing topics outside IT, Cyber, code, or technology. But I did this exercise when I was at College studying Calculus. Now, and several years later, I got this exercise again, and with a new detail: The dimensions are different, we have to consider curves in each edge. So, let's discuss it and I promise I will explain each step for everyone. Welcome to the Math!
+Let's continue the four-serie post. This time I'm going to calculate the Volume C of a swimming pool. Let's review the dimensions.
 
-> This is Part 1 of a 4-post series in which I will show, step by step, how to compute the volume of a swimming pool with an irregular shape using integrals.  
 > The goal is not only to show *how* to calculate it, but also to help you understand *why* integrals are the right tool for the job.
 
-# 1. Overview of the Problem
+# 1. The Dimensions
 
-We want to compute the exact volume of a swimming pool with the following characteristics:
+{% include figure image_path="assets/images/2025-11-25-swimming-pool-dimensions-color.png" alt="Swimming Pool Dimensions" class="align-center" width="400" %}
 
 - **Length:** 7.70 m + 0.10 m curvature on each side  
 - **Width:** 3.20 m + 0.10 m curvature on each side  
 - **Depths:** 1.50 m (deep end), 1.30 m (shallow end)
 
-The pool includes:
+# 2. Problem Statement (Region C)
+
+Region C includes:
 1. A central rectangular region  
 2. Two lateral curved borders  
-3. Two curved end caps  
 
 I regret to inform you, but traditional formulas will not help us here. We need calculus.  
 See the draw below I did to show the dimensions. It isn't in scale.
 
-{% include figure image_path="assets/images/2025-11-25-swimming-pool-dimensions.png" alt="Swimming Pool Dimensions" class="align-center" width="400" %}
+- Length (x-direction): L = 7.70m
+- Constant width for Region C (top view rectangle) W = 3.20m
+- Depth varies along x:
+h(0) = 1.50m
+h(L) = 1.30m
+
+In our example h is our y-axy.
+So, L = 7.70 we have:
+$h(7.70) = 1.30m$
+$y(7.70) = 1.30m$
+
+We can represent the inclination of the pool using a char in x and y axies, such as:
+
+
+
+
+
+
+
+
+
+************ D R A F T ************
 
 Depth changes only in x-direction — this is crucial.
 
