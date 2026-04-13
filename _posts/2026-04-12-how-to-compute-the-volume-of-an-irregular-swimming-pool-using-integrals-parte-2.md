@@ -179,9 +179,7 @@ We divide the pool into very thin vertical slices along the x-axis. Each slice h
 - a constant width $w$ (for region C)
 - a depth that depends on the position $x$, given by $h(x)$
 
-Visually, each slice looks like a thin retangular prism
-
-** INSERTING IMAGE HERE **
+Visually, each slice looks like a thin retangular prism.
 
 ### 4.2. Volume of a single slice
 
