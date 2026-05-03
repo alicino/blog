@@ -11,7 +11,18 @@ categories:
   - mathematics
 ---
 
-Title: How to Compute the Volume of an Irregular Swimming Pool Using Integrals – Part 3
+Let's continue the four-series post. This time I'm going to calculate the Volume B of a swimming pool. Let's review the dimensions.
+
+> The goal is not only to show *how* to calculate it, but also to help you understand *why* integrals are the right tool for the job.
+
+# The Dimensions
+
+{% include figure image_path="assets/images/2026-swimming-pool-dimensions-color.png" alt="Swimming Pool Dimensions" class="align-center" width="400" %}
+
+- **Length:** 7.70 m + 0.10 m curvature on each side  
+- **Width:** 3.20 m + 0.10 m curvature on each side  
+- **Depths:** 1.50 m (deep end), 1.30 m (shallow end)
+
 
 # 1. Scope of this Post
  In this part of the series, we compute the volume of the lateral curved regions, labeled as **Region B**.
