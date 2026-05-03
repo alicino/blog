@@ -304,7 +304,7 @@ $$
 
 Final Result:
 
-<div style="border: 1px solid rgb(255, 0, 0); padding: 5x; border-radius: 8px;">
+<div style="border: 1px solid rgb(255, 0, 0); padding: 5px; border-radius: 8px;">
 $$
 V_c = 34.496 \ \text{m}^3
 $$
