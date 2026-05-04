@@ -59,7 +59,7 @@ We reuse the same coordinate system as before:
 
 Let $w_B (x)$ denote the extra width contributed by one lateral bulge at position $x$
 
-## 3.2. Parabolic Model
+## 3.2. Boundary Conditions
 
 From the geometry, the bulge disappears at the ends:
 
