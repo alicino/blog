@@ -1,3 +1,42 @@
 <!-- start custom footer snippets -->
+<script type="module">
+  import mermaid from
+    'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
 
+  mermaid.initialize({
+    startOnLoad: false,
+    theme: 'default',
+    securityLevel: 'strict'
+  });
+
+  document.querySelectorAll(
+    'pre > code.language-mermaid, .language-mermaid pre code'
+  ).forEach((code) => {
+    const container = document.createElement('div');
+    container.className = 'mermaid';
+    container.textContent = code.textContent;
+
+    const wrapper = code.closest('.highlighter-rouge')
+      || code.closest('pre');
+
+    wrapper.replaceWith(container);
+  });
+
+  await mermaid.run({
+    querySelector: '.mermaid'
+  });
+</script>
+
+<style>
+  .mermaid {
+    text-align: center;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+  }
+
+  .mermaid svg {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 <!-- end custom footer snippets -->
