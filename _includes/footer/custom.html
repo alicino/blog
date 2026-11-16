@@ -9,9 +9,14 @@
     securityLevel: 'strict'
   });
 
-  document.querySelectorAll(
-    'pre > code.language-mermaid, .language-mermaid pre code'
-  ).forEach((code) => {
+  const MERMAID_START =
+    /^(flowchart|graph|sequenceDiagram|classDiagram|stateDiagram|erDiagram|gantt|pie|journey|mindmap|timeline)\b/;
+
+  // Rouge does not know the "mermaid" language, so the generated HTML has no
+  // language-mermaid class. Detect the blocks by their content instead.
+  document.querySelectorAll('pre code').forEach((code) => {
+    if (!MERMAID_START.test(code.textContent.trim())) return;
+
     const container = document.createElement('div');
     container.className = 'mermaid';
     container.textContent = code.textContent;
