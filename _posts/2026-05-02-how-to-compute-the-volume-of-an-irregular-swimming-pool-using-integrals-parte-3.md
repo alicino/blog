@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Draft How to Compute the Volume of an Irregular Swimming Pool Using Integrals – Part 3"
-tdate: 2026-05-02
+title: "How to Compute the Volume of an Irregular Swimming Pool Using Integrals – Part 3"
+date: 2026-05-02
 tags:
   - calculus
   - integrals
